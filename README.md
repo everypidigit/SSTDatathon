@@ -10,3 +10,5 @@ Some of the files and folders, namely labels.csv and the training and test ones,
 were added or deleted. 
 
 All of the images were resized to 256x256 pixels size.
+
+Average accuracy on the test set is 0.90703125 after 10 epochs of training.
