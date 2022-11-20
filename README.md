@@ -11,4 +11,5 @@ Some of the files and folders, namely labels.csv and the training and test ones,
 
 All of the images were resized to 256x256 pixels size, including the test images. 
 
-Average accuracy on the validation set is 0.90703125 after 10 epochs of training.
+Average accuracy on the validation set is 90.7% after 10 epochs of training.
+The highest accuracy was 93.36%.
